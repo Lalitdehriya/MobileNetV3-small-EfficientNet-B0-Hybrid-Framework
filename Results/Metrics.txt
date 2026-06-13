@@ -1,0 +1,8 @@
+Accuracy: 98.57%
+Precision: 99.14%
+Recall: 98.77%
+F1-Score: 98.96%
+ROC-AUC: 0.9992
+
+Mean Accuracy (Seeds): 98.23 ± 0.25
+5-Fold CV Accuracy: 98.85 ± 0.24
